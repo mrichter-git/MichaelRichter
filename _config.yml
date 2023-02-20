@@ -1,9 +1,9 @@
 theme: jekyll-theme-minimal
 title: Michael Richter CV
 description: My resume
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Curiculum Vitae
     url: /
   - title: Cover Letter
-    url: example
+    url: cover_letter
