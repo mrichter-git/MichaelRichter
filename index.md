@@ -1,3 +1,3 @@
 # About me
 
-{% include cv.html %}
+{% include CV.html %}
