@@ -1,8 +1,9 @@
 theme: jekyll-theme-minimal
+layout: full
 title: Michael Richter CV
 description: My resume
 show_downloads: False
-layout: full
+github.is_project_page: False
 navigation:
   - title: Curiculum Vitae
     url: /
