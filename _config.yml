@@ -3,8 +3,4 @@ layout: full
 title: Michael Richter CV
 description: My resume
 show_downloads: False
-navigation:
-  - title: Curiculum Vitae
-    url: /
-  - title: Cover Letter
-    url: cover_letter
+github.is_project_page: False
