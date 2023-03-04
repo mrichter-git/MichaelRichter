@@ -24,3 +24,5 @@ Although I am not definitely settles yet on my preferred professional pathway, I
 about robotics, have a deep understanding of the subject and have a strong work ethic. I am
 highly organised and well-versed in managing complex projects, as well as being able to work in a
 collaborative and dynamic environment.
+
+[Back to my CV](https://mrichter-git.github.io/MichaelRichter/)
