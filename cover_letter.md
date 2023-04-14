@@ -26,7 +26,7 @@ about robotics, have a deep understanding of the subject and have a strong work 
 highly organised and well-versed in managing complex projects, as well as being able to work in a
 collaborative and dynamic environment.
 
-[Back to my CV](https://mrichter-git.github.io/MichaelRichter/)
-
 [Download this cover letter](https://github.com/mrichter-git/MichaelRichter/raw/main/PDFs/Cover_letter_Michael_Richter.pdf/)
+
+[Back to my CV](https://mrichter-git.github.io/MichaelRichter/)
 
