@@ -27,5 +27,6 @@ highly organised and well-versed in managing complex projects, as well as being 
 collaborative and dynamic environment.
 
 [Back to my CV](https://mrichter-git.github.io/MichaelRichter/)
-[Download this cover letter](PDFs/Cover letter.pdf)
+
+[Download this cover letter](https://github.com/mrichter-git/MichaelRichter/tree/main/PDFs/Cover%20letter.pdf)
 
