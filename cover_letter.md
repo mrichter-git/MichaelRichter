@@ -28,5 +28,5 @@ collaborative and dynamic environment.
 
 [Back to my CV](https://mrichter-git.github.io/MichaelRichter/)
 
-[Download this cover letter](https://github.com/mrichter-git/MichaelRichter/tree/main/PDFs/Cover%20letter.pdf)
+[Download this cover letter](https://github.com/mrichter-git/MichaelRichter/tree/main/PDFs/Cover%20letter.pdf/)
 
